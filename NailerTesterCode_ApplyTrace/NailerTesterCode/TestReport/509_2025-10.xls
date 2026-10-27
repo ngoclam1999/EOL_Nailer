@@ -1,0 +1,22 @@
+			Item 1					Item 2					Item 3					Item 4					Item 5					Item 6					Item 7					Item 8					Item 9					Item 10					Item 11					Item 12					Item 13					Item 14					Item 15					Item 16					Item 17					Item 18					Item 19					Item 20				
+Date Time	Test Result	Test Time	Peak amps	RMS amps	Power	Time	Result	Peak amps	RMS amps	Power	Time	Result	Peak amps	RMS amps	Power	Time	Result	Peak amps	RMS amps	Power	Time	Result	Peak amps	RMS amps	Power	Time	Result	Peak amps	RMS amps	Power	Time	Result	Peak amps	RMS amps	Power	Time	Result	Peak amps	RMS amps	Power	Time	Result	Peak amps	RMS amps	Power	Time	Result	Peak amps	RMS amps	Power	Time	Result	Peak amps	RMS amps	Power	Time	Result	Peak amps	RMS amps	Power	Time	Result	Peak amps	RMS amps	Power	Time	Result	Peak amps	RMS amps	Power	Time	Result	Peak amps	RMS amps	Power	Time	Result	Peak amps	RMS amps	Power	Time	Result	Peak amps	RMS amps	Power	Time	Result	Peak amps	RMS amps	Power	Time	Result	Peak amps	RMS amps	Power	Time	Result	Peak amps	RMS amps	Power	Time	Result
+2025-10-03 10:58:49	Cancel	1.84취																																																																																																				
+2025-10-03 10:59:44	Cancel	25.21취
+2025-10-03 14:05:54	Cancel	1.86취
+2025-10-03 14:12:02	Cancel	44.80취
+2025-10-03 14:13:10	Cancel	15.83취
+2025-10-03 14:13:42	Cancel	14.47취
+2025-10-03 14:14:29	Cancel	36.09취
+2025-10-03 15:03:47	Cancel	72.04취		17.25		319.99	NG
+2025-10-03 15:16:33	Cancel	718.77취		455.17		14649.10	NG
+2025-10-03 15:21:28	Cancel	69.87취
+2025-10-03 15:22:12	Cancel	27.35취
+2025-10-03 15:31:28	Cancel	222.07취
+2025-10-03 16:17:46	Cancel	91.87취
+2025-10-03 16:29:44	Cancel	491.24취
+2025-10-03 17:49:01	FAIL	43.38취		14.65		335.72	NG		14.44		335.61	NG		14.43		335.68	NG		14.33		334.80	NG		14.43		328.22	NG		14.29		332.88	NG		14.21		335.34	NG		14.16		334.29	NG		14.17		332.57	NG		14.13		334.78	NG
+2025-10-03 17:50:55	FAIL	30.67취		14.46		332.79	NG		14.41		334.78	NG		14.33		333.41	NG		14.23		332.79	NG		14.24		334.20	NG		14.16		331.49	NG		14.15		332.31	NG		14.12		332.40	NG		14.05		334.31	NG		14.14		331.49	NG
+2025-10-03 17:57:40	FAIL	369.79취		14.22		334.84	NG		14.24		333.37	NG		14.16		333.62	NG		14.07		334.74	NG		14.09		333.55	NG		14.17		333.37	NG		14.13		332.81	NG		14.09		333.16	NG		14.04		332.52	NG		21.01		326.30	NG
+2025-10-03 18:00:38	FAIL	23.44취		14.44		333.47	NG		14.36		335.43	NG		14.32		334.87	NG		14.30		336.42	NG		14.29		334.15	NG		14.24		332.35	NG		14.11		335.60	NG		14.18		335.62	NG		14.03		333.36	NG		14.13		330.19	NG
+2025-10-03 18:06:55	FAIL	19.59취		14.38		337.63	NG		14.39		332.48	NG		14.33		335.65	NG		14.27		334.48	NG		14.21		334.07	NG		14.24		332.57	NG		14.27		334.98	NG		14.18		333.68	NG		14.26		333.87	NG		14.12		334.36	NG
+2025-10-03 18:10:04	PASS	21.64취		14.34		336.62	OK		14.40		336.79	OK		14.32		335.28	OK		14.17		335.73	OK		14.18		333.63	OK		14.14		334.45	OK		14.14		332.33	OK		14.16		332.93	OK		14.06		334.28	OK		13.99		334.45	OK
